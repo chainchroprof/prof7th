@@ -2,6 +2,7 @@
   <div>
     <md-card class="md-primary" md-theme="orange-card" >
       <md-card-header>
+        <md-button class="md-title" align="center" href="https://chainchroprof.github.io/prof8th/">8周年版はこちら！</md-button>
         <div class="md-title">ベースの画像は公式サイトのものを利用しています</div>
         <br>
         <md-button class="md-title" align="center" href="http://chronicle.sega-net.com/7th_chain/">公式サイトへGo!</md-button>
